@@ -1,5 +1,10 @@
 {
+  "name": "mediumclonesanity",
   "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "package.json",
+  "author": "Emmanuel Ikem <ikem43@gmail.com>",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
